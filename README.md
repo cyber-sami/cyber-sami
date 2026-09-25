@@ -9,4 +9,4 @@ Two of the pinned repos are MCP servers I built for my own use. They run my note
 
 I design the tools, the guardrails and the tests, and Claude Code writes the code. I review it, run it on my own data and maintain it.
 
-Find me on [LinkedIn](https://www.linkedin.com/in/sami-porkka).
+Find me on [LinkedIn](https://www.linkedin.com/in/sami-porkka) or see my work at [samiporkka.com](https://samiporkka.com).
